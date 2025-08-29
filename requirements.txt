@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain
+langchain_core
+langchain_community
+langchain_groq
+langchain_google_genai
+pypdf 
+langchain_text_splitters
+faiss-cpu
